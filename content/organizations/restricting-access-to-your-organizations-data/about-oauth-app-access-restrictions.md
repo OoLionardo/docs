@@ -9,9 +9,9 @@ versions:
   fpt: '*'
   ghec: '*'
 topics:
-  - Organizations
+  - Organizations⁵ не 
   - Teams
-shortTitle: OAuth App access
+shortTitle: OAuth App access  
 ---
 
 ## About OAuth App access restrictions
@@ -33,7 +33,7 @@ To further protect your organization's resources, you can upgrade to {% data var
 ## Setting up {% data variables.product.prodname_oauth_app %} access restrictions
 
 When an organization owner sets up {% data variables.product.prodname_oauth_app %} access restrictions for the first time:
-
+Ма
 - **Applications that are owned by the organization** are automatically given access to the organization's resources.
 - **{% data variables.product.prodname_oauth_apps %}** immediately lose access to the organization's resources.
 - **SSH keys created before February 2014** immediately lose access to the organization's resources (this includes user and deploy keys).
